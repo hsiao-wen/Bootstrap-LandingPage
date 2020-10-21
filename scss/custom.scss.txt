@@ -1,0 +1,14 @@
+//Custom.scss
+//Option B Include parts of Bootstrap
+
+//Required
+@import ..node_modulesbootstrapscssfunctions;
+@import ..node_modulesbootstrapscssvariables;
+@import ..node_modulesbootstrapscssmixins;
+
+//Optional
+@import ..node_modulesbootstrapscssreboot;
+@import ..node_modulesbootstrapscsstype;
+@import ..node_modulesbootstrapscssimages;
+@import ..node_modulesbootstrapscsscode;
+@import ..node_modulesbootstrapscssgrid;
